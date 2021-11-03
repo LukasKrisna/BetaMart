@@ -1,0 +1,25 @@
+D:\RESTOPROGRAM.com\DOWNLOAD PROGRAM\FORM ACCESS\Get Data dengan Access Database\FormCRUDAccess\FormCRUDAccess\bin\Debug\FormCRUDAccess.exe
+D:\RESTOPROGRAM.com\DOWNLOAD PROGRAM\FORM ACCESS\Get Data dengan Access Database\FormCRUDAccess\FormCRUDAccess\bin\Debug\FormCRUDAccess.pdb
+D:\RESTOPROGRAM.com\DOWNLOAD PROGRAM\FORM ACCESS\Get Data dengan Access Database\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\FormCRUDAccess.Form1.resources
+D:\RESTOPROGRAM.com\DOWNLOAD PROGRAM\FORM ACCESS\Get Data dengan Access Database\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\FormCRUDAccess.Properties.Resources.resources
+D:\RESTOPROGRAM.com\DOWNLOAD PROGRAM\FORM ACCESS\Get Data dengan Access Database\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\FormCRUDAccess.csproj.GenerateResource.Cache
+D:\RESTOPROGRAM.com\DOWNLOAD PROGRAM\FORM ACCESS\Get Data dengan Access Database\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\FormCRUDAccess.exe
+D:\RESTOPROGRAM.com\DOWNLOAD PROGRAM\FORM ACCESS\Get Data dengan Access Database\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\FormCRUDAccess.pdb
+D:\RESTOPROGRAM.com\DOWNLOAD PROGRAM\FORM ACCESS\Get Data C# dengan Access Database\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\FormCRUDAccess.exe
+D:\RESTOPROGRAM.com\DOWNLOAD PROGRAM\FORM ACCESS\Get Data C# dengan Access Database\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\FormCRUDAccess.pdb
+D:\RESTOPROGRAM.com\DOWNLOAD PROGRAM\FORM ACCESS\Get Data C# dengan Access Database\FormCRUDAccess\FormCRUDAccess\bin\Debug\FormCRUDAccess.exe
+D:\RESTOPROGRAM.com\DOWNLOAD PROGRAM\FORM ACCESS\Get Data C# dengan Access Database\FormCRUDAccess\FormCRUDAccess\bin\Debug\FormCRUDAccess.pdb
+D:\RESTOPROGRAM.com\DOWNLOAD PROGRAM\FORM ACCESS\Get Data C# dengan Access Database\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\FormCRUDAccess.Form1.resources
+D:\RESTOPROGRAM.com\DOWNLOAD PROGRAM\FORM ACCESS\Get Data C# dengan Access Database\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\FormCRUDAccess.Properties.Resources.resources
+D:\RESTOPROGRAM.com\DOWNLOAD PROGRAM\FORM ACCESS\Get Data C# dengan Access Database\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\FormCRUDAccess.csproj.GenerateResource.Cache
+C:\Users\krisn\source\repos\FormCRUDAccess\FormCRUDAccess\bin\Debug\cobabase.accdb
+C:\Users\krisn\source\repos\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\FormCRUDAccess.Form1.resources
+C:\Users\krisn\source\repos\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\FormCRUDAccess.csproj.GenerateResource.cache
+C:\Users\krisn\source\repos\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\FormCRUDAccess.csproj.CoreCompileInputs.cache
+C:\Users\krisn\source\repos\FormCRUDAccess\FormCRUDAccess\bin\Debug\BetaMart.exe.config
+C:\Users\krisn\source\repos\FormCRUDAccess\FormCRUDAccess\bin\Debug\BetaMart.exe
+C:\Users\krisn\source\repos\FormCRUDAccess\FormCRUDAccess\bin\Debug\BetaMart.pdb
+C:\Users\krisn\source\repos\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\FormCRUDAccess.csproj.AssemblyReference.cache
+C:\Users\krisn\source\repos\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\BetaMart.Properties.Resources.resources
+C:\Users\krisn\source\repos\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\BetaMart.exe
+C:\Users\krisn\source\repos\FormCRUDAccess\FormCRUDAccess\obj\x86\Debug\BetaMart.pdb

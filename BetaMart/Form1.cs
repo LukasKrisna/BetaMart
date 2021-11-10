@@ -80,7 +80,7 @@ namespace BetaMart
                 command.CommandText = query;
 
                 command.ExecuteNonQuery();
-                MessageBox.Show("ADD Data Success");
+                MessageBox.Show("Data berhasil ditambah!");
                 connection.Close();
 
                 txtKode.Clear();
@@ -114,7 +114,7 @@ namespace BetaMart
                 command.CommandText = query;
 
                 command.ExecuteNonQuery();
-                MessageBox.Show("EDIT Data Success");
+                MessageBox.Show("Data berhasil diubah!");
                 connection.Close();
 
                 txtKode.Clear();
@@ -147,7 +147,7 @@ namespace BetaMart
                 command.CommandText = query;
 
                 command.ExecuteNonQuery();
-                MessageBox.Show("DELETE Data Success");
+                MessageBox.Show("Data berhasil dihapus!");
                 connection.Close();
 
                 txtKode.Clear();
